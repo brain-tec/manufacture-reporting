@@ -11,12 +11,15 @@ This project aim to deal with OpenERP modules related to manage manufacturing re
 - New reports related to manufacturing area
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[mrp_bom_structure_xls](mrp_bom_structure_xls/) | 8.0.1.0.0 | Export BOM Structure to Excel
 [mrp_repair_layout](mrp_repair_layout/) | 8.0.1.0.0 | MRP Repair Layout
 [mrp_repair_report_customer_lang](mrp_repair_report_customer_lang/) | 8.0.1.0.0 | Repair orders in partner language
+
 
 Unported addons
 ---------------

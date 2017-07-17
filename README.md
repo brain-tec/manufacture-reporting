@@ -11,6 +11,16 @@ This project aim to deal with OpenERP modules related to manage manufacturing re
 - New reports related to manufacturing area
 
 [//]: # (addons)
+
+Available addons
+----------------
+addon | version | summary
+--- | --- | ---
+[mrp_bom_structure_report_level_1](mrp_bom_structure_report_level_1/) | 9.0.1.0.0 | MRP BOM Structure Report Level 1
+[mrp_bom_structure_xlsx](mrp_bom_structure_xlsx/) | 9.0.1.0.0 | Export BOM Structure to Excel .XLSX
+[mrp_bom_structure_xlsx_level_1](mrp_bom_structure_xlsx_level_1/) | 9.0.1.0.0 | Export BOM Structure (Level 1) to Excel .XLSX
+
+
 Unported addons
 ---------------
 addon | version | summary

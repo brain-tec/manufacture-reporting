@@ -63,8 +63,8 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Jordi Ballester <jordi.ballester@eficent.com>
-* Miquel Raïch <miquel.raich@eficent.com>
+* Jordi Ballester <jordi.ballester@forgeflow.com>
+* Miquel Raïch <miquel.raich@forgeflow.com>
 
 Maintainers
 ~~~~~~~~~~~
